@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Consolidated all header elements under header class*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -66,6 +67,7 @@ main {
     margin-left: 20px;
 }
 
+/*Created main-css tag to apply to the part of the body*/
 .main-css {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,6 +108,9 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/*Consolidaed applying elements under the benefit class*/
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,8 +125,8 @@ aside {
         max-width: 150px;
     }
 }
-
-.footer {
+/*Consolidated applicable elements under footer tag*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
