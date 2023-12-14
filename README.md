@@ -14,4 +14,4 @@
 - Link to deployed code: 
 https://snalepa11.github.io/Marketing-Refactor/
 
-- Link to GitHub repositroty where code can be found: https://github.com/snalepa11/Marketing-Refactor
+- Link to GitHub repository where code can be found: https://github.com/snalepa11/Marketing-Refactor
